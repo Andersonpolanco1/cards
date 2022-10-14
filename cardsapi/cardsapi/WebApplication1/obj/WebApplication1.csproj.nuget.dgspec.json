@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ander\\OneDrive\\Desktop\\card\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\ander\\OneDrive\\Desktop\\Projects\\cards\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ander\\OneDrive\\Desktop\\card\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\ander\\OneDrive\\Desktop\\Projects\\cards\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\OneDrive\\Desktop\\card\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\ander\\OneDrive\\Desktop\\Projects\\cards\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\ander\\OneDrive\\Desktop\\card\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\ander\\OneDrive\\Desktop\\Projects\\cards\\cardsapi\\cardsapi\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\OneDrive\\Desktop\\card\\cardsapi\\cardsapi\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\ander\\OneDrive\\Desktop\\Projects\\cards\\cardsapi\\cardsapi\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[6.0.8, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -65,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
